@@ -1,0 +1,15 @@
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\bin\Debug\net6.0\PiniginaDA_01_09.exe
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\bin\Debug\net6.0\PiniginaDA_01_09.deps.json
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\bin\Debug\net6.0\PiniginaDA_01_09.runtimeconfig.json
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\bin\Debug\net6.0\PiniginaDA_01_09.dll
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\bin\Debug\net6.0\PiniginaDA_01_09.pdb
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.csproj.AssemblyReference.cache
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.AssemblyInfoInputs.cache
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.AssemblyInfo.cs
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.csproj.CoreCompileInputs.cache
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.dll
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\refint\PiniginaDA_01_09.dll
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.pdb
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\PiniginaDA_01_09.genruntimeconfig.cache
+C:\Users\307-09\Desktop\PiniginaDA_01_09\PiniginaDA_01_09\obj\Debug\net6.0\ref\PiniginaDA_01_09.dll
